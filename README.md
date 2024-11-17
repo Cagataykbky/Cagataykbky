@@ -1,4 +1,4 @@
-: [![MasterHead(https://www.google.com/imgres?q=code%20background&imgurl=https%3A%2F%2Fwallpapers.com%2Fimages%2Fhd%2Fcoding-background-9izlympnd0ovmpli.jpg&imgrefurl=https%3A%2F%2Fwallpapers.com%2Fcoding-background&docid=g7FswiGJ0w0c9M&tbnid=9ttFutEew8aguM&vet=12ahUKEwjVy8aGm-SJAxXLBNsEHUWJCZUQM3oECH0QAA..i&w=1920&h=1080&hcb=2&ved=2ahUKEwjVy8aGm-SJAxXLBNsEHUWJCZUQM3oECH0QAA
+[![MasterHead(https://www.google.com/imgres?q=code%20background&imgurl=https%3A%2F%2Fwallpapers.com%2Fimages%2Fhd%2Fcoding-background-9izlympnd0ovmpli.jpg&imgrefurl=https%3A%2F%2Fwallpapers.com%2Fcoding-background&docid=g7FswiGJ0w0c9M&tbnid=9ttFutEew8aguM&vet=12ahUKEwjVy8aGm-SJAxXLBNsEHUWJCZUQM3oECH0QAA..i&w=1920&h=1080&hcb=2&ved=2ahUKEwjVy8aGm-SJAxXLBNsEHUWJCZUQM3oECH0QAA
 <h1 align="center">Hi 👋, I'm Çağatay kabakaya</h1>
 <h3 align="center">A passionate Web developer from Türkiye</h3>
 
